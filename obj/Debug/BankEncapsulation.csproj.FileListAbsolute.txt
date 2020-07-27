@@ -1,0 +1,21 @@
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulationApp/BankEncapsulation/obj/Debug/BankEncapsulation.csprojAssemblyReference.cache
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulationApp/BankEncapsulation/obj/Debug/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulationApp/BankEncapsulation/bin/Debug/BankEncapsulation.exe
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulationApp/BankEncapsulation/bin/Debug/BankEncapsulation.pdb
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulationApp/BankEncapsulation/obj/Debug/BankEncapsulation.exe
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulationApp/BankEncapsulation/obj/Debug/BankEncapsulation.pdb
+/Users/asialakaygradyloves/Library/Mobile Documents/com~apple~CloudDocs/Desktop/reposArchive/BankEncapsulationApp/BankEncapsulation/bin/Debug/BankEncapsulation.exe
+/Users/asialakaygradyloves/Library/Mobile Documents/com~apple~CloudDocs/Desktop/reposArchive/BankEncapsulationApp/BankEncapsulation/bin/Debug/BankEncapsulation.pdb
+/Users/asialakaygradyloves/Library/Mobile Documents/com~apple~CloudDocs/Desktop/reposArchive/BankEncapsulationApp/BankEncapsulation/obj/Debug/BankEncapsulation.csprojAssemblyReference.cache
+/Users/asialakaygradyloves/Library/Mobile Documents/com~apple~CloudDocs/Desktop/reposArchive/BankEncapsulationApp/BankEncapsulation/obj/Debug/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/asialakaygradyloves/Library/Mobile Documents/com~apple~CloudDocs/Desktop/reposArchive/BankEncapsulationApp/BankEncapsulation/obj/Debug/BankEncapsulation.exe
+/Users/asialakaygradyloves/Library/Mobile Documents/com~apple~CloudDocs/Desktop/reposArchive/BankEncapsulationApp/BankEncapsulation/obj/Debug/BankEncapsulation.pdb
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/bin/Debug/BankEncapsulation.exe
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/bin/Debug/BankEncapsulation.pdb
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/obj/Debug/BankEncapsulation.csprojAssemblyReference.cache
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/obj/Debug/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/obj/Debug/BankEncapsulation.exe
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/obj/Debug/BankEncapsulation.pdb
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/bin/Debug/Newtonsoft.Json.dll
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/bin/Debug/Newtonsoft.Json.xml
+/Users/asialakaygradyloves/Desktop/repos/BankEncapsulation/obj/Debug/BankEncapsulation.csproj.CopyComplete

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankEncapsulation", "BankEncapsulation.csproj", "{218A2DD8-8A09-4C59-8FCA-7C383B171467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218A2DD8-8A09-4C59-8FCA-7C383B171467}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{218A2DD8-8A09-4C59-8FCA-7C383B171467}.Debug|anycpu.Build.0 = Debug|anycpu
+		{218A2DD8-8A09-4C59-8FCA-7C383B171467}.Release|anycpu.ActiveCfg = Release|anycpu
+		{218A2DD8-8A09-4C59-8FCA-7C383B171467}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
